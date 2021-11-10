@@ -451,9 +451,9 @@ body{
   --bg-color: rgb(10, 10, 10);
   --text-color: #fff;
   --blog-gray-color: rgb(180, 180, 180);
-  --background-image: linear-gradient(90deg, rgba(10, 10, 10, 0.6), rgb(10, 10, 10, 1)), url("https://cdn.discordapp.com/attachments/802693567856246804/908088874436263996/mingyu_1.52.40_PM.gif");
+  --background-image: linear-gradient(90deg, rgba(10, 10, 10, 0.6), rgb(10, 10, 10, 1)), url("https://cdn.wallpapersafari.com/42/66/j2Ncgt.jpg");
   --background-background: linear-gradient(0deg, rgba(10, 10, 10, 1), rgba(10, 10, 10, 0.6)),
-    url("https://cdn.discordapp.com/attachments/802693567856246804/908088874436263996/mingyu_1.52.40_PM.gif") center center fixed;
+    url("https://cdn.wallpapersafari.com/42/66/j2Ncgt.jpg") center center fixed;
   --height: 50vh;
 }
 #display h1 {
