@@ -6,5 +6,5 @@
   "sort": "star",
   "order": "desc",
   "includeFork": false,
-  "theme": "dark.css"
+  "theme": "dracula.css"
 }]
