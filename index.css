@@ -474,7 +474,7 @@ body{
 }
 @media (max-width: 800px) {
   :root {
-    --background-image: linear-gradient(0deg, rgba(10, 10, 10, 1), rgba(10, 10, 10, 0)),
+    --background-image: linear-gradient(0deg, rgba(212, 220, 255, 0.8), rgba(212, 220, 255, 0.8)),
     url("https://cdn.discordapp.com/attachments/802693567856246804/908099872647950336/IMG_2491.jpg") !important;
   }
 }
